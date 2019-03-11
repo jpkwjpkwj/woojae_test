@@ -1,4 +1,8 @@
 file2
 another line of file2
 Ann added a line on file2
+<<<<<<< HEAD
+Ben was here!!!!
+=======
 Ann was here!
+>>>>>>> 66009d56ff0a772642a6c560e5e571a493ad78cb
