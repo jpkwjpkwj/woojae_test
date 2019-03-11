@@ -1,4 +1,5 @@
 file1
+Ben adds a line on 2nd line
 adding a line
 Ann has changed this file
 Ben also changed this file yo
