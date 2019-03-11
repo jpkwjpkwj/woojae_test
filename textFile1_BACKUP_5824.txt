@@ -1,0 +1,11 @@
+file1
+Ben adds a line on 2nd line
+adding a line
+Ann has changed this file
+Ben also changed this file yo
+Ann adds a line on the last line
+<<<<<<< Updated upstream
+hi im ann im fixing a bug on this file
+=======
+hi im ben im working on something and i wanna stash this thing
+>>>>>>> Stashed changes
